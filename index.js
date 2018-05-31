@@ -1,0 +1,1 @@
+const colors_tinify = require('./src/colors-tinify');

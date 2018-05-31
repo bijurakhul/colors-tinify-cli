@@ -1,0 +1,12 @@
+{
+  "name": "colors-tinify-cli",
+  "version": "1.0.0",
+  "main": "index.js",
+  "preferGlobal": true,
+  "bin": "./src/colors-tinify.js",
+  "private": true,
+  "dependencies": {
+    "commander": "^2.15.1",
+    "tinify": "^1.5.0"
+  }
+}
