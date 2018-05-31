@@ -35,8 +35,8 @@ program
 /*  compress image  */
 program
     .option('-i, --input <input_file> <output_file>', 'compresses the uploaded image', () => {
-        let inputFilePath = process.argv[2];
-        let outputFilePath = process.argv[3] || inputFilePath;
+        let inputFilePath = process.argv[3];
+        let outputFilePath = process.argv[4] || inputFilePath;
 
         tinify.key = TINYPNG_API_KEY;
 
