@@ -3,7 +3,7 @@
 A CLI for compressing (jpg/png) images using **TinyPng API**.
 
 ##  Prequisites
-1.  Goto TinyPng developers page [here] (https://tinypng.com/developers)
+1.  Goto TinyPng developers page [here](https://tinypng.com/developers)
 2.  Get the API by providing your **Name** and **Email ID**
 
 ##  Setup
@@ -20,4 +20,4 @@ Basic Usage:
 ```colors-tinify-cli -i inputFilePath outputFilePath```
 
 ##  Reference
-1.  [https://tinypng.com] (https://tinypng.com/)
+1.  [https://tinypng.com](https://tinypng.com/)
